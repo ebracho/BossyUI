@@ -22,6 +22,7 @@ var bossy = angular.module('bossy', [
 	'bossy.schema',
 	'bossy.tooltip',
 	'bossy.autocomplete',
-	'bossy.combobox'
+	'bossy.combobox',
+    'bossy.navigation'
 ]
 );
